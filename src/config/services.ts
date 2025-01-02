@@ -1,1 +1,2 @@
 export const CHAT_SERVICE = 'CHAT_SERVICE';
+export const API_EXCHANGE = 'API_EXCHANGE';
